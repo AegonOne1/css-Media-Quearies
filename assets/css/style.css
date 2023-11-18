@@ -233,7 +233,7 @@ img {
         grid-template:
             [header-left] 'head  nav nav' 4rem [nav-right] 
             [article-left] 'article main main' 1fr [main-right] 
-            [article-left] 'article  section section' 2rem [section-right] 
+            [article-left] 'article  section section' 3rem [section-right] 
             [footer-left] 'foot foot foot' 4rem [footer-right] 
             / 1fr 5fr;
     }
