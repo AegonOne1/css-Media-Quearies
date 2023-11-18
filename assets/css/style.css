@@ -37,6 +37,7 @@
 
 .layout-header i {
     font-size: 2rem;
+    margin-right: 1rem;
 }
 
 a {
@@ -158,6 +159,7 @@ img {
     grid-area: section;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .buttons button {
